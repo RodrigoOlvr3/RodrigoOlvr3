@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Dev Back-End Java<br>⚡ Fun code
+🔭 QA loved and Dev Back-End Java<br>⚡ Fun code
 
 
 # 💻 Tech Stack:
